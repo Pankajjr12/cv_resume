@@ -1,0 +1,126 @@
+{
+  "main": {
+    "name":"Web Developer",
+    "description":"I am a Java full stack developer with a strong focus on React and Spring Boot, dedicated to creating dynamic web applications.",
+    "image":"profilepic.jpg",
+    "bio":"I am a Java Full Stack Developer with extensive experience in building dynamic web applications. My primary expertise lies in React for front-end development and Spring Boot for back-end services. I am passionate about leveraging modern technologies to create efficient, user-friendly applications that enhance user experience. ",
+    "contactmessage":"Here is where you should write your message to readers to have them get in contact with you.",
+    "email": "pankaj.official.pro@gmail.com",
+    "phone": "7087827269",
+    "github":"https://github.com/Pankajjr12?tab=repositories",
+    "project":"https://github.com/Pankajjr12/rocket_chat_post_app",
+    "address":{
+      "street":"Opposite Partap Fuel Pump Village Allahabad",
+      "city":"Hoshiarpur",
+      "state":"Punjab",
+      "zip": "146001"
+    },
+    "website": "",
+    "resumedownload":"https://drive.google.com/file/d/1_sMya3QBq0_03TWgl8LlTEt3jJRz2j9G/view?usp=sharing",
+    "social":[
+  
+      {
+        "name":"linkedin",
+        "url":"https://www.linkedin.com/in/tim-baker-8420009a/",
+        "className":"fa fa-linkedin"
+      },
+      {
+        "name":"instagram",
+        "url":"https://www.instagram.com/6832panjr/profilecard/?igsh=MWVpbXZhaXAwcHlsaw==",
+        "className":"fa fa-instagram"
+      },
+      {
+        "name":"github",
+        "url":"https://github.com/Pankajjr12",
+        "className":"fa fa-github"
+      }
+    ]
+  },
+  "resume":{
+    "skillmessage":"Here I can create a short write-up of my skills to show off to employers",
+    "education":[
+      {
+        "school":"Punjab University",
+        "degree":"Masters of Computer Applications",
+        "graduated":"2021 Graduated",
+        "description":"Grapse skills in Data Structures and Algorithms, Java Programming , problem solving and Web technologies"
+      },
+      {
+        "school":"Government College",
+        "degree":"Bachelor of Computer Applications",
+        "graduated":"2017 Graduated"
+
+      }
+    ],
+    "work":[
+      {
+        "company":"Tata Consultancy Services",
+        "title":"Developer - Backend/Frontend",
+        "years":"February 2022 - October 2024",
+        "description":"Developed applications using React for frontend and Spring Boot for backend, contributing to a project related to Transport for London services. Designed and implemented LARA, an application that monitors tasks related to road accidents, generates appeals based on specific incidents, and facilitates submission of those appeals to the court."
+      },
+      {
+        "company":"Edureka",
+        "title":"Mern Stack Internship",
+        "years":"March 2017 - February 2018",
+        "description":"During my internship, I gained comprehensive knowledge and hands-on experience in various modern web development technologies and frameworks. Developed dynamic web applications using React.js. Learnt about building server-side applications with Node.js. Implemented and managed databases using MongoDB."
+      }
+    ],
+    "skills":[
+      {
+        "name":"React js",
+        "level":"88%"
+      },
+      {
+        "name":"Spring Boot",
+        "level":"85%"
+      },
+      {
+        "name":"Node js",
+        "level":"80%"
+      },
+      {
+        "name":"HTML/CSS",
+        "level":"90%"
+      },
+  
+      {
+        "name":"JAVA",
+        "level":"90%"
+      },
+      {
+        "name":"Angular",
+        "level":"81%"
+      }
+    ]
+  },
+  "portfolio":{
+    "projects": [
+      {
+        "title":"Chat Post App",
+        "category":"Tech Stack used React js, Node js, Mongo db, Socket ui",
+        "image":"pro1.jpg",
+        "url":"https://rocket-chat-app-pankaj-studio.onrender.com/"
+      },
+      {
+        "title":"Food Express React App",
+        "category":"Tech Stack used React js, Node js, Express js, Firebase, Mongo db",
+        "image":"image1.jpg",
+        "url":"https://food-app-bf653.web.app/"
+      },
+      {
+        "title":"Social Verse",
+        "category":"Website I built for a restaurant I like in Thailand",
+        "image":"bt.png",
+        "url":"https://www.youtube.com/watch?v=uc7VsjVd3Aw&t=9s"
+      },
+      {
+        "title":"Marvel Verse",
+        "category":"Android Development using kotlin, follows MVVM architecture.",
+        "image":"marvel.jpg",
+        "url":"https://drive.google.com/file/d/1-BzWqVTp0wgXsG5AyYPU8XWWTeNrYAwp/view"
+      }
+     
+    ]
+  }
+}
