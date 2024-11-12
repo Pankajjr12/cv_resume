@@ -4,24 +4,22 @@
     "description":"I am a Java full stack developer with a strong focus on React and Spring Boot, dedicated to creating dynamic web applications.",
     "image":"profilepic.jpg",
     "bio":"I am a Java Full Stack Developer with extensive experience in building dynamic web applications. My primary expertise lies in React for front-end development and Spring Boot for back-end services. I am passionate about leveraging modern technologies to create efficient, user-friendly applications that enhance user experience. ",
-    "contactmessage":"Here is where you should write your message to readers to have them get in contact with you.",
-    "email": "pankaj.official.pro@gmail.com",
-    "phone": "7087827269",
+    "contactmessage":"Please contact with me here.",
     "github":"https://github.com/Pankajjr12?tab=repositories",
     "project":"https://github.com/Pankajjr12/rocket_chat_post_app",
     "address":{
-      "street":"Opposite Partap Fuel Pump Village Allahabad",
+      "street":"Opposite Partap Fuel Pump Vill Allahabad",
       "city":"Hoshiarpur",
       "state":"Punjab",
       "zip": "146001"
     },
     "website": "",
-    "resumedownload":"https://drive.google.com/file/d/1_sMya3QBq0_03TWgl8LlTEt3jJRz2j9G/view?usp=sharing",
+    "resumedownload":"https://drive.google.com/file/d/1VGAsRN055oGpl6YfVGsOHnRPdWokEIGs/view?usp=sharing",
     "social":[
   
       {
         "name":"linkedin",
-        "url":"https://www.linkedin.com/in/tim-baker-8420009a/",
+        "url":"https://www.linkedin.com/in/pankaj-kumar-7636b4286/",
         "className":"fa fa-linkedin"
       },
       {
@@ -91,6 +89,10 @@
       {
         "name":"Angular",
         "level":"81%"
+      },
+      {
+        "name":"CI/CD Pipelines",
+        "level":"90%"
       }
     ]
   },
@@ -98,19 +100,19 @@
     "projects": [
       {
         "title":"Chat Post App",
-        "category":"Tech Stack used React js, Node js, Mongo db, Socket ui",
+        "category":"React js (frontend), Node js (backend), Mongo db (Storage), Socket ui (Other features)",
         "image":"pro1.jpg",
         "url":"https://rocket-chat-app-pankaj-studio.onrender.com/"
       },
       {
         "title":"Food Express React App",
-        "category":"Tech Stack used React js, Node js, Express js, Firebase, Mongo db",
+        "category":"React js (frontend), Node js (backend), Mongo db - Firebase (Storage)",
         "image":"image1.jpg",
         "url":"https://food-app-bf653.web.app/"
       },
       {
         "title":"Social Verse",
-        "category":"Website I built for a restaurant I like in Thailand",
+        "category":"React App using Spring Boot API functionality with MySQL database management",
         "image":"bt.png",
         "url":"https://www.youtube.com/watch?v=uc7VsjVd3Aw&t=9s"
       },

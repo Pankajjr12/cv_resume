@@ -16,7 +16,9 @@ class Portfolio extends Component {
             
               <Zmage  alt={projects.title} src={projectImage} />
             
+            
             <div style={{ textAlign: "center", fontWeight:"600",padding:"6px" }}>
+            <span style={{ textAlign: "center",padding:"6px"}}>{projects.category}</span>
               <a href={projects.url} target="_blank" rel="noopener noreferrer">
                 {projects.title}
               </a>
