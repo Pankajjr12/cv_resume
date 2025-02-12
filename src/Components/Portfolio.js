@@ -13,13 +13,11 @@ class Portfolio extends Component {
       return (
         <div key={id++} className="columns portfolio-item">
           <div className="item-wrap">
+            <Zmage alt={projects.title} src={projectImage} className="project-image" />
             
-              <Zmage  alt={projects.title} src={projectImage} />
-            
-            
-            <div style={{ textAlign: "center", fontWeight:"600",padding:"6px" }}>
-            <span style={{ textAlign: "center",padding:"6px"}}>{projects.category}</span>
-              <a href={projects.url} target="_blank" rel="noopener noreferrer">
+            <div className="project-details">
+              <span className="category">{projects.category}</span>
+              <a href={projects.url} target="_blank" rel="noopener noreferrer" className="project-title">
                 {projects.title}
               </a>
             </div>
@@ -35,10 +33,7 @@ class Portfolio extends Component {
             <div className="twelve columns collapsed">
               <h1>Check Out Some of My Works.</h1>
 
-              <div
-                id="portfolio-wrapper"
-                className="bgrid-quarters s-bgrid-thirds cf"
-              >
+              <div id="portfolio-wrapper" className="bgrid-quarters s-bgrid-thirds cf">
                 {projects}
               </div>
             </div>

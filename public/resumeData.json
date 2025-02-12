@@ -14,7 +14,7 @@
       "zip": "146001"
     },
     "website": "",
-    "resumedownload":"https://drive.google.com/file/d/1VGAsRN055oGpl6YfVGsOHnRPdWokEIGs/view?usp=sharing",
+    "resumedownload":"https://drive.google.com/file/d/19qYIhoRaAx0SfErAqA6jLSUJcslZ4s1X/view?usp=drive_link",
     "social":[
   
       {
@@ -98,6 +98,12 @@
   },
   "portfolio":{
     "projects": [
+      {
+        "title":"Prime Game Store",
+        "category":"React js (frontend), Spring Boot (backend), Postgres Sql (Storage), Render Cloud Deploy (Other features)",
+        "image":"sa.jpg",
+        "url":"https://frontend-prime-games.vercel.app/"
+      },
       {
         "title":"Chat Post App",
         "category":"React js (frontend), Node js (backend), Mongo db (Storage), Socket ui (Other features)",
