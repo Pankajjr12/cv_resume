@@ -1,140 +1,148 @@
 {
   "main": {
-    "name":"Web Developer",
-    "description":"I am a Java full stack developer with a strong focus on React and Spring Boot, dedicated to creating dynamic web applications.",
-    "image":"profilepic.jpg",
-    "bio":"I am a Java Full Stack Developer with extensive experience in building dynamic web applications. My primary expertise lies in React for front-end development and Spring Boot for back-end services. I am passionate about leveraging modern technologies to create efficient, user-friendly applications that enhance user experience. ",
-    "contactmessage":"Please contact with me here.",
-    "github":"https://github.com/Pankajjr12?tab=repositories",
-    "project":"https://github.com/Pankajjr12/rocket_chat_post_app",
-    "address":{
-      "street":"Opposite Partap Fuel Pump Vill Allahabad",
-      "city":"Hoshiarpur",
-      "state":"Punjab",
+    "name": "Web Developer",
+    "description": "I am a Java full stack developer with a strong focus on React and Spring Boot, dedicated to creating dynamic web applications.",
+    "image": "profilepic.jpg",
+    "bio": "I am a Java Full Stack Developer with extensive experience in building dynamic web applications. My primary expertise lies in React for front-end development and Spring Boot for back-end services. I am passionate about leveraging modern technologies to create efficient, user-friendly applications that enhance user experience. ",
+    "contactmessage": "Please contact with me here.",
+    "github": "https://github.com/Pankajjr12?tab=repositories",
+    "project": "https://github.com/Pankajjr12/rocket_chat_post_app",
+    "address": {
+      "street": "Opposite Partap Fuel Pump Vill Allahabad",
+      "city": "Hoshiarpur",
+      "state": "Punjab",
       "zip": "146001"
     },
     "website": "",
-    "resumedownload":"https://drive.google.com/file/d/19qYIhoRaAx0SfErAqA6jLSUJcslZ4s1X/view?usp=drive_link",
-    "social":[
-  
+    "resumedownload": "https://drive.google.com/file/d/15t8x6O0BX2YxCg6xXaeqgF4xZ567oIZx/view?usp=drive_link",
+    "social": [
       {
-        "name":"linkedin",
-        "url":"https://www.linkedin.com/in/pankaj-kumar-7636b4286/",
-        "className":"fa fa-linkedin"
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/in/pankaj-kumar-7636b4286/",
+        "className": "fa fa-linkedin"
       },
       {
-        "name":"instagram",
-        "url":"https://www.instagram.com/6832panjr/profilecard/?igsh=MWVpbXZhaXAwcHlsaw==",
-        "className":"fa fa-instagram"
+        "name": "instagram",
+        "url": "https://www.instagram.com/6832panjr/profilecard/?igsh=MWVpbXZhaXAwcHlsaw==",
+        "className": "fa fa-instagram"
       },
       {
-        "name":"github",
-        "url":"https://github.com/Pankajjr12",
-        "className":"fa fa-github"
+        "name": "github",
+        "url": "https://github.com/Pankajjr12",
+        "className": "fa fa-github"
       }
     ]
   },
-  "resume":{
-    "skillmessage":"Here I can create a short write-up of my skills to show off to employers",
-    "education":[
+  "resume": {
+    "skillmessage": "Here I can create a short write-up of my skills to show off to employers",
+    "education": [
       {
-        "school":"Punjab University",
-        "degree":"Masters of Computer Applications",
-        "graduated":"2021 Graduated",
-        "description":"Grapse skills in Data Structures and Algorithms, Java Programming , problem solving and Web technologies"
+        "school": "Punjab University",
+        "degree": "Masters of Computer Applications",
+        "graduated": "2021 Graduated",
+        "description": "Grapse skills in Data Structures and Algorithms, Java Programming , problem solving and Web technologies"
       },
       {
-        "school":"Government College",
-        "degree":"Bachelor of Computer Applications",
-        "graduated":"2017 Graduated"
-
+        "school": "Government College",
+        "degree": "Bachelor of Computer Applications",
+        "graduated": "2017 Graduated"
       }
     ],
-    "work":[
+    "work": [
       {
-        "company":"Tata Consultancy Services",
-        "title":"Developer - Backend/Frontend",
-        "years":"February 2022 - Present",
-        "description":"Developed applications using React for frontend and Spring Boot for backend, contributing to a project related to Transport for London services. Designed and implemented LARA, an application that monitors tasks related to road accidents, generates appeals based on specific incidents, and facilitates submission of those appeals to the court."
+        "company": "Tata Consultancy Services",
+        "title": "Developer - Backend/Frontend",
+        "years": "February 2022 - Present",
+        "description": "Developed applications using React for frontend and Spring Boot for backend, contributing to a project related to Transport for London services. Designed and implemented LARA, an application that monitors tasks related to road accidents, generates appeals based on specific incidents, and facilitates submission of those appeals to the court."
       },
       {
-        "company":"Edureka",
-        "title":"Mern Stack Internship",
-        "years":"March 2017 - February 2018",
-        "description":"During my internship, I gained comprehensive knowledge and hands-on experience in various modern web development technologies and frameworks. Developed dynamic web applications using React.js. Learnt about building server-side applications with Node.js. Implemented and managed databases using MongoDB."
+        "company": "Edureka",
+        "title": "Mern Stack Internship",
+        "years": "March 2017 - February 2018",
+        "description": "During my internship, I gained comprehensive knowledge and hands-on experience in various modern web development technologies and frameworks. Developed dynamic web applications using React.js. Learnt about building server-side applications with Node.js. Implemented and managed databases using MongoDB."
       }
     ],
-    "skills":[
+    "skills": [
       {
-        "name":"React js",
-        "level":"88%"
+        "name": "React js",
+        "level": "88%"
       },
       {
-        "name":"Spring Boot",
-        "level":"85%"
+        "name": "Spring Boot",
+        "level": "85%"
       },
       {
-        "name":"Node js",
-        "level":"80%"
+        "name": "Node js",
+        "level": "80%"
       },
       {
-        "name":"HTML/CSS",
-        "level":"90%"
-      },
-  
-      {
-        "name":"JAVA",
-        "level":"90%"
+        "name": "HTML/CSS",
+        "level": "90%"
       },
       {
-        "name":"Angular",
-        "level":"81%"
+        "name": "JAVA",
+        "level": "90%"
       },
       {
-        "name":"CI/CD Pipelines",
-        "level":"90%"
+        "name": "Angular",
+        "level": "81%"
+      },
+      {
+        "name": "CI/CD Pipelines",
+        "level": "90%"
+      },
+      {
+        "name": "Mongo DB",
+        "level": "90%"
+      },
+      {
+        "name": "My SQL",
+        "level": "90%"
+      },
+      {
+        "name": "Docker",
+        "level": "80%"
       }
     ]
   },
-  "portfolio":{
+  "portfolio": {
     "projects": [
       {
-        "title":"Prime Game Store",
-        "category":"React js (frontend), Spring Boot (backend), Postgres Sql (Storage), Render Cloud Deploy (Other features)",
-        "image":"sa.jpg",
-        "url":"https://frontend-prime-games.vercel.app/"
+        "title": "Prime Game Store",
+        "category": "React js (frontend), Spring Boot (backend), Postgres Sql (Storage), Render Cloud Deploy (Other features)",
+        "image": "sa.jpg",
+        "url": "https://frontend-prime-games.vercel.app/"
       },
       {
-        "title":"Chat Post App",
-        "category":"React js (frontend), Node js (backend), Mongo db (Storage), Socket ui (Other features)",
-        "image":"pro1.jpg",
-        "url":"https://rocket-chat-app-pankaj-studio.onrender.com/"
+        "title": "Chat Post App",
+        "category": "React js (frontend), Node js (backend), Mongo db (Storage), Socket ui (Other features)",
+        "image": "pro1.jpg",
+        "url": "https://rocket-chat-app-pankaj-studio.onrender.com/"
       },
       {
-        "title":"Snap Nest",
-        "category":"React js (frontend), Node js (backend), Mongo db (Storage)",
-        "image":"sp.png",
-        "url":"https://snapnest-frontend.vercel.app/"
+        "title": "Snap Nest",
+        "category": "React js (frontend), Node js (backend), Mongo db (Storage)",
+        "image": "sp.png",
+        "url": "https://snapnest-frontend.vercel.app/"
       },
       {
-        "title":"Food Express React App",
-        "category":"React js (frontend), Node js (backend), Mongo db - Firebase (Storage)",
-        "image":"image1.jpg",
-        "url":"https://food-app-bf653.web.app/"
+        "title": "Food Express React App",
+        "category": "React js (frontend), Node js (backend), Mongo db - Firebase (Storage)",
+        "image": "image1.jpg",
+        "url": "https://food-app-bf653.web.app/"
       },
       {
-        "title":"Social Verse",
-        "category":"React App using Spring Boot API functionality with MySQL database management",
-        "image":"bt.png",
-        "url":"https://www.youtube.com/watch?v=uc7VsjVd3Aw&t=9s"
+        "title": "Social Verse",
+        "category": "React App using Spring Boot API functionality with MySQL database management",
+        "image": "bt.png",
+        "url": "https://www.youtube.com/watch?v=uc7VsjVd3Aw&t=9s"
       },
       {
-        "title":"Marvel Verse",
-        "category":"Android Development using kotlin, follows MVVM architecture.",
-        "image":"marvel.jpg",
-        "url":"https://drive.google.com/file/d/1-BzWqVTp0wgXsG5AyYPU8XWWTeNrYAwp/view"
+        "title": "Marvel Verse",
+        "category": "Android Development using kotlin, follows MVVM architecture.",
+        "image": "marvel.jpg",
+        "url": "https://drive.google.com/file/d/1-BzWqVTp0wgXsG5AyYPU8XWWTeNrYAwp/view"
       }
-     
     ]
   }
 }
