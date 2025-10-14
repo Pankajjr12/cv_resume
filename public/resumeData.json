@@ -14,7 +14,7 @@
       "zip": "146001"
     },
     "website": "",
-    "resumedownload": "https://drive.google.com/file/d/15t8x6O0BX2YxCg6xXaeqgF4xZ567oIZx/view?usp=drive_link",
+    "resumedownload": "https://drive.google.com/file/d/1tduEYzPIMN47FtEunLodrFu80s8CPh9Y/view?usp=sharing",
     "social": [
       {
         "name": "linkedin",
@@ -50,8 +50,14 @@
     ],
     "work": [
       {
+        "company": "Blueberry Groups",
+        "title": "Mern Developer - Backend/Frontend",
+        "years": "April 2025 - Present",
+        "description": "Worked at Blueberry Groups on the company portal handling Payroll, HRMS, Employee Attendance & Leaves, Course Assignments, and related modules. Involved in both application design and backend development, ensuring seamless functionality and data management across multiple HR and payroll workflows."
+      },
+      {
         "company": "Tata Consultancy Services",
-        "title": "Developer - Backend/Frontend",
+        "title": "Java Developer - Backend/Frontend",
         "years": "February 2022 - Present",
         "description": "Developed applications using React for frontend and Spring Boot for backend, contributing to a project related to Transport for London services. Designed and implemented LARA, an application that monitors tasks related to road accidents, generates appeals based on specific incidents, and facilitates submission of those appeals to the court."
       },
@@ -112,6 +118,12 @@
         "category": "React js (frontend), Spring Boot (backend), Postgres Sql (Storage), Render Cloud Deploy (Other features)",
         "image": "sa.jpg",
         "url": "https://frontend-prime-games.vercel.app/"
+      },
+      {
+        "title": "StreamX Movie Info App",
+        "category": "React js (frontend), Node js (backend), Mongo Db (Storage), Vercel Cloud Deploy (Other features)",
+        "image": "avg.png",
+        "url": "https://stream-x-web-app.vercel.app/"
       },
       {
         "title": "Chat Post App",
