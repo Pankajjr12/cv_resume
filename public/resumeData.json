@@ -1,9 +1,9 @@
 {
   "main": {
     "name": "Web Developer",
-    "description": "I am a Java full stack developer with a strong focus on React and Spring Boot, dedicated to creating dynamic web applications.",
+    "description": "<strong>I am a Java Full Stack and MERN Stack Developer specializing in building dynamic and scalable web applications.</strong>",
     "image": "profilepic.jpg",
-    "bio": "I am a Java Full Stack Developer with extensive experience in building dynamic web applications. My primary expertise lies in React for front-end development and Spring Boot for back-end services. I am passionate about leveraging modern technologies to create efficient, user-friendly applications that enhance user experience. ",
+    "bio": "I am a Java Full Stack and MERN Stack Developer with strong experience in building modern, high-performance web applications. My expertise includes React and Node.js on the front end and Spring Boot and Express.js on the back end. I am committed to leveraging modern technologies to create efficient, user-centric, and impactful digital solutions.",
     "contactmessage": "Please contact with me here.",
     "github": "https://github.com/Pankajjr12?tab=repositories",
     "project": "https://github.com/Pankajjr12/rocket_chat_post_app",
@@ -58,13 +58,13 @@
       {
         "company": "Tata Consultancy Services",
         "title": "Java Developer - Backend/Frontend",
-        "years": "February 2022 - Present",
+        "years": "February 2022 - October 2024",
         "description": "Developed applications using React for frontend and Spring Boot for backend, contributing to a project related to Transport for London services. Designed and implemented LARA, an application that monitors tasks related to road accidents, generates appeals based on specific incidents, and facilitates submission of those appeals to the court."
       },
       {
         "company": "Edureka",
-        "title": "Mern Stack Internship",
-        "years": "March 2017 - February 2018",
+        "title": "Online Mern Stack Internship",
+        "years": "August 2021 - February 2022",
         "description": "During my internship, I gained comprehensive knowledge and hands-on experience in various modern web development technologies and frameworks. Developed dynamic web applications using React.js. Learnt about building server-side applications with Node.js. Implemented and managed databases using MongoDB."
       }
     ],
@@ -91,7 +91,7 @@
       },
       {
         "name": "Angular",
-        "level": "81%"
+        "level": "85%"
       },
       {
         "name": "CI/CD Pipelines",
@@ -100,6 +100,10 @@
       {
         "name": "Mongo DB",
         "level": "90%"
+      },
+      {
+        "name": "Postgres",
+        "level": "93%"
       },
       {
         "name": "My SQL",
