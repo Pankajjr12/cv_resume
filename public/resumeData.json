@@ -124,10 +124,16 @@
         "url": "https://frontend-prime-games.vercel.app/"
       },
       {
-        "title": "StreamX Movie Info App",
+        "title": "Stream X",
         "category": "React js (frontend), Node js (backend), Mongo Db (Storage), Vercel Cloud Deploy (Other features)",
         "image": "avg.png",
         "url": "https://stream-x-web-app.vercel.app/"
+      },
+      {
+        "title": "Fastly Food App",
+        "category": "React js (frontend), Node js (backend), Mongo db (Storage), Socket ui (Real time), Map Api Integration",
+        "image": "fastly.png",
+        "url": "https://pankaj-jr-fastly-food.onrender.com/"
       },
       {
         "title": "Chat Post App",
@@ -142,7 +148,7 @@
         "url": "https://snapnest-frontend.vercel.app/"
       },
       {
-        "title": "Food Express React App",
+        "title": "Food Express",
         "category": "React js (frontend), Node js (backend), Mongo db - Firebase (Storage)",
         "image": "image1.jpg",
         "url": "https://food-app-bf653.web.app/"
