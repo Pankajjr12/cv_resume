@@ -14,7 +14,7 @@
       "zip": "146001"
     },
     "website": "",
-    "resumedownload": "https://drive.google.com/file/d/1gEWtA8i1a6sHcMiJBnMHDBg79QmKpkbc/view?usp=drive_link",
+    "resumedownload": "https://drive.google.com/file/d/1WL7FXIoc98tFq_BB3hTwx9GZp5umD6T-/view?usp=sharing",
     "social": [
       {
         "name": "linkedin",
@@ -45,7 +45,8 @@
       {
         "school": "Government College",
         "degree": "Bachelor of Computer Applications",
-        "graduated": "2017 Graduated"
+        "graduated": "2017 Graduated",
+        "description":"Grapse skills in english communication skills, presentation skills, and problem solving"
       }
     ],
     "work": [
@@ -53,7 +54,7 @@
         "company": "Blueberry Groups",
         "title": "Mern Developer - Backend/Frontend",
         "years": "April 2025 - Present",
-        "description": "Worked at Blueberry Groups on the company portal handling Payroll, HRMS, Employee Attendance & Leaves, Course Assignments, and related modules. Involved in both application design and backend development, ensuring seamless functionality and data management across multiple HR and payroll workflows."
+        "description": "Worked at Blueberry Groups on the company internal website handling Payroll, HRMS, Employee Attendance & Leaves, Course Assignments, and related modules. Involved in both application design and backend development, ensuring seamless functionality and data management across multiple modules and workflow workflows."
       },
       {
         "company": "Tata Consultancy Services",
@@ -71,7 +72,11 @@
     "skills": [
       {
         "name": "React js",
-        "level": "88%"
+        "level": "95%"
+      },
+      {
+        "name": "Next js",
+        "level": "90%"
       },
       {
         "name": "Spring Boot",
@@ -79,11 +84,11 @@
       },
       {
         "name": "Node js",
-        "level": "80%"
+        "level": "95%"
       },
       {
         "name": "HTML/CSS",
-        "level": "90%"
+        "level": "95%"
       },
       {
         "name": "JAVA",
@@ -102,16 +107,20 @@
         "level": "90%"
       },
       {
-        "name": "Postgres",
-        "level": "93%"
+        "name": "Postgres & My SQL",
+        "level": "90%"
       },
       {
-        "name": "My SQL",
+        "name": "SOcket Programming",
+        "level": "90%"
+      },
+      {
+        "name": "API Map Integration",
         "level": "90%"
       },
       {
         "name": "Docker",
-        "level": "80%"
+        "level": "85%"
       }
     ]
   },
@@ -140,6 +149,12 @@
         "category": "React js (frontend), Node js (backend), Mongo db (Storage), Socket ui (Other features)",
         "image": "pro1.jpg",
         "url": "https://rocket-chat-app-pankaj-studio.onrender.com/"
+      },
+       {
+        "title": "Landing Page (Next js)",
+        "category": "Next js (frontend), Framer motion, AOS animation, Smooth Scrolling, Responsive design",
+        "image": "land.png",
+        "url": "https://pankaj-gaming-store-landing-page-ne.vercel.app/"
       },
       {
         "title": "Snap Nest",
