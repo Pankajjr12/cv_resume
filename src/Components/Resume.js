@@ -50,6 +50,16 @@ class Resume extends Component {
         <li key={skills.name}>
           <span style={{ width, backgroundColor }} className={className}></span>
           <em>{skills.name}</em>
+          <span
+            style={{
+              fontSize: "4px",
+              fontStyle: "italic",
+              marginLeft: "6px",
+              color: "#fff",
+            }}
+          >
+           <em> ({skills.years})</em>
+          </span>
         </li>
       );
     });

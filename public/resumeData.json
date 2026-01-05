@@ -72,55 +72,58 @@
     "skills": [
       {
         "name": "React js",
-        "level": "95%"
+        "level": "95%",
+        "years": "3 years"
       },
       {
         "name": "Next js",
-        "level": "90%"
+        "level": "90%",
+        "years": "1 years"
       },
       {
         "name": "Spring Boot",
-        "level": "85%"
+        "level": "85%",
+        "years": "2.6 years"
       },
       {
         "name": "Node js",
-        "level": "95%"
+        "level": "95%",
+        "years": "3 years"
       },
       {
         "name": "HTML/CSS",
-        "level": "95%"
+        "level": "95%",
+        "years": "3 years"
       },
       {
         "name": "JAVA",
-        "level": "90%"
+        "level": "90%",
+        "years": "3 years"
       },
       {
         "name": "Angular",
-        "level": "85%"
+        "level": "85%",
+        "years": "2 years"
       },
       {
         "name": "CI/CD Pipelines",
-        "level": "90%"
+        "level": "90%",
+        "years": "3 years"
       },
       {
         "name": "Mongo DB",
-        "level": "90%"
+        "level": "90%",
+        "years": "3 years"
       },
       {
         "name": "Postgres & My SQL",
-        "level": "90%"
-      },
-      {
-        "name": "SOcket Programming",
-        "level": "90%"
-      },
-      {
-        "name": "API Map Integration",
-        "level": "90%"
+        "level": "90%",
+        "years": "2 years"
       },
       {
         "name": "Docker",
-        "level": "85%"
+        "level": "85%",
+        "years": "2 years"
       }
     ]
   },
