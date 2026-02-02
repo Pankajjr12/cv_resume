@@ -14,7 +14,7 @@
       "zip": "146001"
     },
     "website": "",
-    "resumedownload": "https://drive.google.com/file/d/1DcKMQ5oD8EH8aE_8ac59bOT-i3zovZ15/view?usp=sharing",
+    "resumedownload": "https://drive.google.com/file/d/19jwAkfAMEZ1WbFlYocZH_23bpw0HardA/view?usp=sharing",
     "social": [
       {
         "name": "linkedin",
@@ -54,14 +54,14 @@
         "company": "Blueberry Groups",
         "title": "Mern Developer - Backend/Frontend",
         "years": "May 2025 - November 2025",
-        "tech":"Angular, Node.js, MySQL, GitLab, Microservices, Problem Solving, Team Work.",
+        "tech":"React.js, Node.js, MySQL, GitLab, Microservices, Problem Solving, Team Work.",
         "description": "Worked at Blueberry Groups on the company internal website handling Payroll, HRMS, Employee Attendance & Leaves, Course Assignments, and related modules. Involved in both application design and backend development, ensuring seamless functionality and data management across multiple modules and workflow workflows."
       },
       {
         "company": "Tata Consultancy Services",
         "title": "Java Developer - Backend/Frontend",
         "years": "February 2022 - October 2024",
-         "tech":"Angular, SpringBoot Microservices, Hibernate, Java, Node.js, MySQL, AWS, Problem Solving",
+         "tech":"Angular, React.js, SpringBoot Microservices, Hibernate, Java, Node.js, MySQL, AWS, Problem Solving",
         "description": "Developed applications using Angular for frontend and Spring Boot for backend, contributing to a project related to Transport for London (TFL) services. Work on some modues of LARA, an application that monitors tasks related to road accidents, generates appeals based on specific incidents, and facilitates submission of those appeals to the court."
       },
       {
@@ -90,7 +90,7 @@
       {
         "name": "Node js",
         "level": "95%",
-        "years": "2 years"
+        "years": "2.5 years"
       },
       {
         "name": "HTML/CSS",
