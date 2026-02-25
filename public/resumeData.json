@@ -51,10 +51,17 @@
     ],
     "work": [
       {
+        "company": "Self-Employed / Independent Projects",
+        "title": "Full Stack Developer",
+        "years": "Nov 2025 – Present",
+        "tech": "Java, Spring Boot, Node.js, Angular, React, MongoDB, PostgreSQL, Redis, Docker, AWS",
+        "description": "Designing and developing scalable full-stack web applications with a focus on microservices architecture and real-time systems. Built multi-role platforms including a real-time food ordering system and a photo-sharing application. Implemented REST APIs, JWT authentication, caching strategies, and optimized database performance. Strengthening system design and problem-solving skills through continuous upskilling and hands-on development."
+      },
+      {
         "company": "Blueberry Groups",
-        "title": "Mern Developer - Backend/Frontend",
+        "title": "Mean Developer - Backend/Frontend",
         "years": "May 2025 - November 2025",
-        "tech":"React.js, Node.js, MySQL, GitLab, Microservices, Problem Solving, Team Work.",
+        "tech":"Angular latest, Node.js, MySQL, GitLab, Microservices, Problem Solving, Team Work.",
         "description": "Worked at Blueberry Groups on the company internal website handling Payroll, HRMS, Employee Attendance & Leaves, Course Assignments, and related modules. Involved in both application design and backend development, ensuring seamless functionality and data management across multiple modules and workflow workflows."
       },
       {
@@ -105,7 +112,7 @@
       {
         "name": "Angular",
         "level": "85%",
-        "years": "2 years"
+        "years": "3 years"
       },
       {
         "name": "CI/CD Pipelines",
