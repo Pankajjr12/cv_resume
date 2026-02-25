@@ -1,7 +1,7 @@
 {
   "main": {
     "name": "Web Developer",
-    "description": "<strong>I am a Java Full Stack and MERN Stack Developer specializing in building dynamic and scalable web applications.</strong>",
+    "description": "<strong>I am a Java Full Stack and MEAN (also know about React) Stack Developer specializing in building dynamic and scalable web applications.</strong>",
     "image": "profilepic.jpg",
     "bio": "I am a Java Full Stack and MERN Stack Developer with strong experience in building modern, high-performance web applications. My expertise includes React and Node.js on the front end and Spring Boot and Express.js on the back end. I am committed to leveraging modern technologies to create efficient, user-centric, and impactful digital solutions.",
     "contactmessage": "Please contact with me here.",

@@ -23,7 +23,14 @@ class Footer extends Component {
               <ul className="social-links">{networks}</ul>
 
               <ul className="copyright">
-                <li>&copy; Copyright 2024</li>
+                <li>
+                  &copy; Copyright <span id="year"></span>
+                </li>
+
+                <script>
+                  document.getElementById("year").textContent = new
+                  Date().getFullYear();
+                </script>
                 <li>
                   Design by{" "}
                   <a title="Styleshout" href="http://www.styleshout.com/">
