@@ -14,7 +14,7 @@
       "zip": "146001"
     },
     "website": "",
-    "resumedownload": "https://drive.google.com/file/d/1KE5AiKwAzrPkdhLbIq93aK-nUfk_JHZl/view?usp=sharing",
+    "resumedownload": "https://drive.google.com/file/d/1sHianOFGmPIo_ep29no4zIZCGxFpg_ID/view?usp=sharing",
     "social": [
       {
         "name": "linkedin",
@@ -138,6 +138,12 @@
   },
   "portfolio": {
     "projects": [
+      {
+        "title": "WebFlix",
+        "category": "Angular (frontend), Spring Boot (backend), Postgres Sql (Storage), Render Cloud Deploy (Other features)",
+        "image": "wefs.png",
+        "url": "https://web-flix-frontend.vercel.app/"
+      },
       {
         "title": "Prime Game Store",
         "category": "React js (frontend), Spring Boot (backend), Postgres Sql (Storage), Render Cloud Deploy (Other features)",
