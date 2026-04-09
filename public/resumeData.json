@@ -8,13 +8,13 @@
     "github": "https://github.com/Pankajjr12?tab=repositories",
     "project": "https://github.com/Pankajjr12/rocket_chat_post_app",
     "address": {
-      "street": "Opposite Partap Fuel Pump Vill Allahabad",
+      "street": "Opposite Partap Fuel Pump Una Road",
       "city": "Hoshiarpur",
       "state": "Punjab",
       "zip": "146001"
     },
     "website": "",
-    "resumedownload": "https://drive.google.com/file/d/1sHianOFGmPIo_ep29no4zIZCGxFpg_ID/view?usp=sharing",
+    "resumedownload": "https://drive.google.com/file/d/1HHKXYDHGtKEcSN8G_xWjTVIy8QlPezJW/view?usp=sharing",
     "social": [
       {
         "name": "linkedin",
@@ -85,9 +85,9 @@
         "years": "3 years"
       },
       {
-        "name": "Next js",
-        "level": "90%",
-        "years": "1 years"
+        "name": "Angular",
+        "level": "85%",
+        "years": "2 years"
       },
       {
         "name": "Spring Boot",
@@ -97,7 +97,7 @@
       {
         "name": "Node js",
         "level": "95%",
-        "years": "2.5 years"
+        "years": "2 years"
       },
       {
         "name": "HTML/CSS",
@@ -105,13 +105,13 @@
         "years": "3 years"
       },
       {
-        "name": "JAVA",
+        "name": "Next js",
         "level": "90%",
-        "years": "3 years"
+        "years": "1 years"
       },
       {
-        "name": "Angular",
-        "level": "85%",
+        "name": "JAVA",
+        "level": "90%",
         "years": "3 years"
       },
       {
@@ -132,7 +132,7 @@
       {
         "name": "Docker",
         "level": "85%",
-        "years": "2 years"
+        "years": "3 years"
       }
     ]
   },

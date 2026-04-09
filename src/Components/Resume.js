@@ -15,7 +15,9 @@ class Resume extends Component {
     if (!this.props.data) return null;
 
     const skillmessage = this.props.data.skillmessage;
-    const education = this.props.data.education.map(function (education) {
+
+    // ✅ EDUCATION (FIXED)
+    const education = this.props.data.education.map((education) => {
       return (
         <div key={education.school}>
           <h3>{education.school}</h3>
@@ -28,7 +30,8 @@ class Resume extends Component {
       );
     });
 
-    const work = this.props.data.work.map(function (work) {
+    // ✅ WORK (BUTTON ADDED HERE CORRECTLY)
+    const work = this.props.data.work.map((work) => {
       return (
         <div key={work.company}>
           <h3>{work.company}</h3>
@@ -36,12 +39,38 @@ class Resume extends Component {
             {work.title}
             <span>&bull;</span> <em className="date">{work.years}</em>
           </p>
-          <p style={{"fontStyle":"italic"}}>{work.tech}</p>
+          <p style={{ fontStyle: "italic" }}>{work.tech}</p>
           <p>{work.description}</p>
+
+          {/* ✅ BUTTON ONLY FOR SELF-EMPLOYED */}
+          {work.company === "Self-Employed / Independent Projects" && (
+            <a
+              href="https://docs.google.com/document/d/1am9GqSEK3X0OBw1f2mMYDhACxuxIkvsqdga3qfwS--Y/edit?tab=t.0"
+              target="_blank"
+              rel="noopener noreferrer"
+              style={{
+                display: "inline-block",
+                marginBottom: "10px",
+                padding: "10px 20px",
+                background: "linear-gradient(135deg, #6366f1, #8b5cf6)",
+                color: "#fff",
+                borderRadius: "6px",
+                cursor:"pointer",
+                textDecoration: "none",
+                fontSize: "14px",
+                transition: "0.3s",
+              }}
+              onMouseOver={(e) => (e.target.style.opacity = "0.8")}
+              onMouseOut={(e) => (e.target.style.opacity = "1")}
+            >
+              🔗 View Work
+            </a>
+          )}
         </div>
       );
     });
 
+    // ✅ SKILLS
     const skills = this.props.data.skills.map((skills) => {
       const backgroundColor = this.getRandomColor();
       const className = "bar-expand " + skills.name.toLowerCase();
@@ -53,13 +82,13 @@ class Resume extends Component {
           <em>{skills.name}</em>
           <span
             style={{
-              fontSize: "4px",
+              fontSize: "10px",
               fontStyle: "italic",
               marginLeft: "6px",
               color: "#fff",
             }}
           >
-           <em> ({skills.years})</em>
+            ({skills.years})
           </span>
         </li>
       );
@@ -67,6 +96,7 @@ class Resume extends Component {
 
     return (
       <section id="resume">
+        {/* EDUCATION */}
         <Slide left duration={1300}>
           <div className="row education">
             <div className="three columns header-col">
@@ -83,6 +113,7 @@ class Resume extends Component {
           </div>
         </Slide>
 
+        {/* WORK */}
         <Slide left duration={1300}>
           <div className="row work">
             <div className="three columns header-col">
@@ -95,6 +126,7 @@ class Resume extends Component {
           </div>
         </Slide>
 
+        {/* SKILLS */}
         <Slide left duration={1300}>
           <div className="row skill">
             <div className="three columns header-col">
