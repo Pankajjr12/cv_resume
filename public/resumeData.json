@@ -1,7 +1,7 @@
 {
   "main": {
     "name": "Web Developer",
-    "description": "<strong>I am a Java Full Stack and MEAN (also know about React) Stack Developer specializing in building dynamic and scalable web applications.</strong>",
+    "description": "<strong>I am a Java Full Stack and MERN (also know about Angular) Stack Developer specializing in building dynamic and scalable web applications.</strong>",
     "image": "profilepic.jpg",
     "bio": "I am a Java Full Stack and MERN Stack Developer with strong experience in building modern, high-performance web applications. My expertise includes React and Node.js on the front end and Spring Boot and Express.js on the back end. I am committed to leveraging modern technologies to create efficient, user-centric, and impactful digital solutions.",
     "contactmessage": "Please contact with me here.",
@@ -80,57 +80,57 @@
     ],
     "skills": [
       {
-        "name": "React js",
+        "name": "React js (3 years)",
         "level": "95%",
         "years": "3 years"
       },
       {
-        "name": "Angular",
+        "name": "Angular (2 years)",
         "level": "85%",
         "years": "2 years"
       },
       {
-        "name": "Spring Boot",
+        "name": "Spring Boot (3 years)",
         "level": "85%",
         "years": "3 years"
       },
       {
-        "name": "Node js",
+        "name": "Node js (3 years)",
         "level": "95%",
         "years": "2 years"
       },
       {
-        "name": "HTML/CSS",
+        "name": "HTML/CSS (3 years)",
         "level": "95%",
         "years": "3 years"
       },
       {
-        "name": "Next js",
+        "name": "Next js (6 months)",
         "level": "90%",
         "years": "1 years"
       },
       {
-        "name": "JAVA",
+        "name": "JAVA (3 years)",
         "level": "90%",
         "years": "3 years"
       },
       {
-        "name": "CI/CD Pipelines",
+        "name": "CI/CD Pipelines (3 years)",
         "level": "90%",
         "years": "3 years"
       },
       {
-        "name": "Mongo DB",
+        "name": "Mongo DB (3 years)",
         "level": "90%",
         "years": "3 years"
       },
       {
-        "name": "Postgres & My SQL",
+        "name": "Postgres & My SQL (3 years)",
         "level": "90%",
         "years": "2 years"
       },
       {
-        "name": "Docker",
+        "name": "Docker & Kubernetes(3 years)",
         "level": "85%",
         "years": "3 years"
       }
