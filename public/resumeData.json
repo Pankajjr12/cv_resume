@@ -14,7 +14,7 @@
       "zip": "146001"
     },
     "website": "",
-    "resumedownload": "https://drive.google.com/file/d/1fD_SDaPS7QmcB30WHl95xf5qYP-H0DqV/view?usp=sharing",
+    "resumedownload": "https://drive.google.com/file/d/155NSfPFl62nJpZGIy6OgCJiMyToZGHPA/view?usp=sharing",
     "social": [
       {
         "name": "linkedin",
@@ -46,7 +46,7 @@
         "school": "Government College",
         "degree": "Bachelor of Computer Applications",
         "graduated": "2017 Graduated",
-        "description":"Grapse skills in english communication skills, presentation skills, and problem solving"
+        "description": "Grapse skills in english communication skills, presentation skills, and problem solving"
       }
     ],
     "work": [
@@ -61,14 +61,14 @@
         "company": "Blueberry Groups",
         "title": "Mean Developer - Backend/Frontend",
         "years": "May 2025 - November 2025",
-        "tech":"Angular latest, Node.js, MySQL, GitLab, Microservices, Problem Solving, Team Work.",
+        "tech": "Angular latest, Node.js, MySQL, GitLab, Microservices, Problem Solving, Team Work.",
         "description": "Worked at Blueberry Groups on the company internal website handling Payroll, HRMS, Employee Attendance & Leaves, Course Assignments, and related modules. Involved in both application design and backend development, ensuring seamless functionality and data management across multiple modules and workflow workflows."
       },
       {
         "company": "Tata Consultancy Services",
         "title": "Java Developer - Backend/Frontend",
         "years": "February 2022 - October 2024",
-         "tech":"Angular, React.js, SpringBoot Microservices, Hibernate, Java, Node.js, MySQL, AWS, Problem Solving",
+        "tech": "Angular, React.js, SpringBoot Microservices, Hibernate, Java, Node.js, MySQL, AWS, Problem Solving",
         "description": "Developed applications using Angular for frontend and Spring Boot for backend, contributing to a project related to Transport for London (TFL) services. Work on some modues of LARA, an application that monitors tasks related to road accidents, generates appeals based on specific incidents, and facilitates submission of those appeals to the court."
       },
       {
@@ -168,7 +168,13 @@
         "image": "pro1.jpg",
         "url": "https://rocket-chat-app-pankaj-studio.onrender.com/"
       },
-       {
+      {
+        "title": "Blog App",
+        "category": "Next js (frontend), Node js (backend), Rabbit MQ (Inter communication), Redis Cache",
+        "image": "blog.png",
+        "url": "https://blog-frontend-eight-wine.vercel.app/blogs"
+      },
+      {
         "title": "Landing Page (Next js)",
         "category": "Next js (frontend), Framer motion, AOS animation, Smooth Scrolling, Responsive design",
         "image": "land.png",
