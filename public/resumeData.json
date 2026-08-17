@@ -1,9 +1,9 @@
 {
   "main": {
     "name": "Full Stack Developer",
-    "description": "<strong>I am a Java Full Stack and MEAN (have knowledge of React) Stack Developer specializing in building dynamic and scalable web applications.</strong>",
+    "description": "<strong>I am a Full Stack Developer having hands-on experience in java, react, node and angular specializing in building dynamic and scalable web applications.</strong>",
     "image": "profilepic.jpg",
-    "bio": "I am a Java Full Stack and MEAN Stack Developer with strong experience in building modern, high-performance web applications. My expertise includes Angular/React and Node.js on the front end and Spring Boot and Express.js on the back end. I am committed to leveraging modern technologies to create efficient, user-centric, and impactful digital solutions.",
+    "bio": "I am a Full Stack Developer with strong experience in building modern, high-performance web applications. My expertise includes Angular/React and Node.js on the front end and Spring Boot and Express.js on the back end. I am committed to leveraging modern technologies to create efficient, user-centric, and impactful digital solutions.",
     "contactmessage": "Please contact with me here.",
     "github": "https://github.com/Pankajjr12?tab=repositories",
     "project": "https://drive.google.com/file/d/1IvVpaMk2QFBNOofNmhVCsEKud2-7haii/view?usp=sharing",
