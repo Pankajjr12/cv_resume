@@ -6,7 +6,7 @@
     "bio": "I am a Full Stack Developer with strong experience in building modern, high-performance web applications. My expertise includes Angular/React and Node.js on the front end and Spring Boot and Express.js on the back end. I am committed to leveraging modern technologies to create efficient, user-centric, and impactful digital solutions.",
     "contactmessage": "Please contact with me here.",
     "github": "https://github.com/Pankajjr12?tab=repositories",
-    "project": "https://drive.google.com/file/d/1IvVpaMk2QFBNOofNmhVCsEKud2-7haii/view?usp=sharing",
+    "project": "https://drive.google.com/file/d/1fh2aIQOHoKEEGuHMCCkQwCOUg7qmgDYb/view?usp=sharing",
     "address": {
       "street": "Opposite Partap Fuel Pump Una Road",
       "city": "Hoshiarpur",
@@ -59,8 +59,8 @@
       },
       {
         "company": "Blueberry Groups",
-        "title": "Mean Developer - Backend/Frontend",
-        "years": "May 2025 - November 2025",
+        "title": "Mern Developer - Backend/Frontend",
+        "years": "May 2025 - Present",
         "tech": "Angular latest, Node.js, MySQL, GitLab, Microservices, Problem Solving, Team Work.",
         "description": "Worked at Blueberry Groups on the company internal website handling Payroll, HRMS, Employee Attendance & Leaves, Course Assignments, and related modules. Involved in both application design and backend development, ensuring seamless functionality and data management across multiple modules and workflow workflows."
       },
@@ -69,7 +69,7 @@
         "title": "Java Developer - Backend/Frontend",
         "years": "February 2022 - October 2024",
         "tech": "Angular, React.js, SpringBoot Microservices, Hibernate, Java, Node.js, MySQL, AWS, Problem Solving",
-        "description": "Developed applications using Angular for frontend and Spring Boot for backend, contributing to a project related to Transport for London (TFL) services. Work on some modues of LARA, an application that monitors tasks related to road accidents, generates appeals based on specific incidents, and facilitates submission of those appeals to the court."
+        "description": "Developed applications using React for frontend and Spring Boot for backend, contributing to a project related to Transport for London (TFL) services. Work on some modues of LARA, an application that monitors tasks related to road accidents, generates appeals based on specific incidents, and facilitates submission of those appeals to the court."
       },
       {
         "company": "Edureka",
