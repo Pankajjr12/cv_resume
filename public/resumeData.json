@@ -1,14 +1,14 @@
 {
   "main": {
     "name": "Full Stack Developer",
-    "description": "<strong>I am a Full Stack Developer having hands-on experience in java, react, node and angular specializing in building dynamic and scalable web applications.</strong>",
+    "description": "<strong>I am a Full Stack Developer having three years of hands-on experience in java, react, node and angular specializing in building dynamic and scalable web applications.</strong>",
     "image": "profilepic.jpg",
-    "bio": "I am a Full Stack Developer with strong experience in building modern, high-performance web applications. My expertise includes Angular/React and Node.js on the front end and Spring Boot and Express.js on the back end. I am committed to leveraging modern technologies to create efficient, user-centric, and impactful digital solutions.",
+    "bio": "I’m a Full Stack Developer with hands-on experience building web applications using Angular and React on the frontend, and Node.js, Express.js, and Spring Boot on the backend. I enjoy solving problems, learning new technologies, and building reliable, user-friendly applications that solve real-world problems.",
     "contactmessage": "Please contact with me here.",
     "github": "https://github.com/Pankajjr12?tab=repositories",
     "project": "https://drive.google.com/file/d/1M_sORWBjUqSagUee0CYk4AtRmDr4P58Z/view?usp=sharing",
     "address": {
-      "street": "Opposite Partap Fuel Pump Una Road",
+      "street": "Near Ravidas Gurdwara Allahabad",
       "city": "Hoshiarpur",
       "state": "Punjab",
       "zip": "146001"
@@ -55,14 +55,14 @@
         "title": "Full Stack Developer",
         "years": "Nov 2025 – Present",
         "tech": "Java, Spring Boot, Node.js, Angular, React, MongoDB, PostgreSQL, Redis, Docker, AWS",
-        "description": "Designing and developing scalable full-stack web applications with a focus on microservices architecture and real-time systems. Built multi-role platforms including a real-time food ordering system and a photo-sharing application. Implemented REST APIs, JWT authentication, caching strategies, and optimized database performance. Strengthening system design and problem-solving skills through continuous upskilling and hands-on development."
+        "description": "Designing and developing scalable full-stack web applications with a focus on microservices architecture and real-time systems. Built multi-role platforms including a real-time food ordering system and a photo-sharing application. Implemented REST APIs, JWT authentication, caching strategies, and optimized database performance. Strengthening system design and problem-solving skills through continuous upskilling and hands-on development. Continually learning LLM Api's and RAG vector."
       },
       {
         "company": "Blueberry Groups",
         "title": "Mern Developer - Backend/Frontend",
         "years": "June 2025 - Nov 2025",
         "tech": "Angular latest, Node.js, MySQL, GitLab, Microservices, Problem Solving, Team Work.",
-        "description": "Worked at Blueberry Groups on the company internal website handling Payroll, HRMS, Employee Attendance & Leaves, Course Assignments, and related modules. Involved in both application design and backend development, ensuring seamless functionality and data management across multiple modules and workflow workflows."
+        "description": "Worked at Blueberry Groups on the company internal website handling HRMS, Employee Attendance & Leaves, Course Assignments, and related modules. Involved in both application design and backend development, ensuring seamless functionality and data management across multiple modules and workflows."
       },
       {
         "company": "Tata Consultancy Services",
@@ -80,12 +80,12 @@
     ],
     "skills": [
       {
-        "name": "React js (3 years)",
+        "name": "React js (3.5 years)",
         "level": "95%",
         "years": "3 years"
       },
       {
-        "name": "Angular (3 years)",
+        "name": "Angular (1.5 years)",
         "level": "85%",
         "years": "3 years"
       },
@@ -95,12 +95,12 @@
         "years": "3 years"
       },
       {
-        "name": "Node js (3 years)",
+        "name": "Node js (2.5 years)",
         "level": "95%",
         "years": "3 years"
       },
       {
-        "name": "HTML/CSS (3 years)",
+        "name": "HTML/CSS (3.5 years)",
         "level": "95%",
         "years": "3 years"
       },
@@ -115,17 +115,17 @@
         "years": "3 years"
       },
       {
-        "name": "CI/CD Pipelines (3 years)",
+        "name": "CI/CD Pipelines (3.5 years)",
         "level": "90%",
         "years": "3 years"
       },
       {
-        "name": "Mongo DB (3 years)",
+        "name": "Mongo DB (3.5 years)",
         "level": "90%",
         "years": "3 years"
       },
       {
-        "name": "Postgres & My SQL (3 years)",
+        "name": "Postgres & My SQL (3.5 years)",
         "level": "90%",
         "years": "2 years"
       },
@@ -212,5 +212,5 @@
       }
     ]
   }
-  
+
 }
