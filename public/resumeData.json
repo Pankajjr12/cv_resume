@@ -80,57 +80,57 @@
     ],
     "skills": [
       {
-        "name": "React js (3.5 years)",
+        "name": "React js",
         "level": "95%",
         "years": "3 years"
       },
       {
-        "name": "Angular (1.5 years)",
+        "name": "Angular",
         "level": "85%",
         "years": "3 years"
       },
       {
-        "name": "Spring Boot (3 years)",
+        "name": "Spring Boot",
         "level": "85%",
         "years": "3 years"
       },
       {
-        "name": "Node js (2.5 years)",
+        "name": "Node js",
         "level": "95%",
         "years": "3 years"
       },
       {
-        "name": "HTML/CSS (3.5 years)",
+        "name": "HTML/CSS",
         "level": "95%",
         "years": "3 years"
       },
       {
-        "name": "Next js (6 months)",
+        "name": "Next js ",
         "level": "90%",
         "years": "1 years"
       },
       {
-        "name": "JAVA (3 years)",
+        "name": "JAVA",
         "level": "90%",
         "years": "3 years"
       },
       {
-        "name": "CI/CD Pipelines (3.5 years)",
+        "name": "CI/CD Pipelines",
         "level": "90%",
         "years": "3 years"
       },
       {
-        "name": "Mongo DB (3.5 years)",
+        "name": "Mongo DB",
         "level": "90%",
         "years": "3 years"
       },
       {
-        "name": "Postgres & My SQL (3.5 years)",
+        "name": "Postgres & My SQL",
         "level": "90%",
         "years": "2 years"
       },
       {
-        "name": "Docker & Kubernetes(3 years)",
+        "name": "Docker & Kubernetes",
         "level": "85%",
         "years": "3 years"
       }
