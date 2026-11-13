@@ -1,56 +1,95 @@
+
 .portfolio-item {
-    display: flex;
-    flex-direction: column;
-    justify-content: center;
-    align-items: center;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  width: calc(25% - 20px);
+  margin: 0;
+}
+
+.item-wrap {
+  position: relative;
+  width: 100%;
+  text-align: center;
+  border: 1px solid #ddd;
+  border-radius: 8px;
+  overflow: hidden;
+  transition: transform 0.3s ease-in-out;
+}
+
+.project-image {
+  display: block;
+  width: 100%;
+  height: auto;
+  max-width: 100%;
+  border-bottom: 1px solid #ddd;
+}
+
+.project-details {
+  padding: 12px;
+  background-color: #fff;
+}
+
+.project-title {
+  display: inline-block;
+  font-size: 18px;
+  font-weight: 600;
+  color: #333;
+  text-decoration: none;
+  transition: color 0.3s ease;
+}
+
+.project-title:hover {
+  color: #007bff;
+}
+
+.category {
+  font-size: 14px;
+  font-weight: 400;
+  color: #777;
+  display: block;
+  margin-bottom: 8px;
+}
+
+#portfolio-wrapper {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: flex-start;
+  gap: 20px;
+  width: 100%;
+}
+
+/* Tablet */
+@media screen and (max-width: 1024px) {
+  .portfolio-item {
+      width: calc(50% - 10px);
   }
-  
-  .item-wrap {
-    position: relative;
-    text-align: center;
-    border: 1px solid #ddd;
-    border-radius: 8px;
-    overflow: hidden;
-    transition: transform 0.3s ease-in-out;
+}
+
+/* Mobile */
+@media screen and (max-width: 600px) {
+  #portfolio {
+      display: block !important;
+      visibility: visible !important;
+      height: auto !important;
+      overflow: visible !important;
   }
-  
-  .project-image {
-    width: 100%;
-    height: auto;
-    max-width: 100%;
-    border-bottom: 1px solid #ddd;
-  }
-  
-  .project-details {
-    padding: 12px;
-    background-color: #fff;
-  }
-  
-  .project-title {
-    display: inline-block;
-    font-size: 18px;
-    font-weight: 600;
-    color: #333;
-    text-decoration: none;
-    transition: color 0.3s ease;
-  }
-  
-  .project-title:hover {
-    color: #007bff;
-  }
-  
-  .category {
-    font-size: 14px;
-    font-weight: 400;
-    color: #777;
-    display: block;
-    margin-bottom: 8px;
-  }
-  
+
   #portfolio-wrapper {
-    display: flex;
-    flex-wrap: wrap;
-    justify-content: space-between;
-    gap: 20px;
+      display: flex !important;
+      flex-direction: column !important;
+      gap: 20px;
   }
-  
+
+  .portfolio-item {
+      display: flex !important;
+      width: 100% !important;
+      max-width: 100% !important;
+      visibility: visible !important;
+  }
+
+  .item-wrap {
+      width: 100%;
+  }
+}
