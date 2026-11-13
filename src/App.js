@@ -1,6 +1,5 @@
 
 import React, { Component } from "react";
-import ReactGA from "react-ga";
 
 import "./App.css";
 
